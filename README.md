@@ -21,8 +21,7 @@ Five days of marimo notebooks for high school students at IU Indianapolis, co-fa
 ## Research
 
 - Tournament Success Factor: does Indiana's reclassification rule punish success? (with Dr. David Pierce)
-- Validity of NFL EPA and win probability models at lower levels of football (with Dr. Georgy Shukaylo, South Carolina)
-- Coach job security, pay, and in-game risk taking
+  
 
 ## Tools
 
